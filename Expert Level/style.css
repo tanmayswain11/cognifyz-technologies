@@ -1,0 +1,28 @@
+/* Custom styles */
+#navbar{
+    content: "";
+    background-color: black;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    opacity: 0.4;
+}
+
+
+
+.navbar-brand {
+    font-weight: bold;
+    color: #0056b3;
+}
+
+.btn-light {
+    border: 2px solid #0056b3;
+}
+
+.btn-light:hover {
+    background-color: #0056b3;
+    color: white;
+}
+
+/* Add more custom styles as needed */
